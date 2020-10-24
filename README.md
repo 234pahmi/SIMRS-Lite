@@ -1,2 +1,2 @@
 # SIMRS-Lite
-Website sederhana Rumah Sakit
+Website Rumah Sakit Sederhana
